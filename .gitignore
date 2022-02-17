@@ -1,5 +1,5 @@
 ynab_token.txt
 venv/
 .venv/
-budget_last_knowledge_of_server.csv
+*.csv
 *.json
